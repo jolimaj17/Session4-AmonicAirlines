@@ -1,0 +1,13 @@
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\bin\Debug\Session4.exe.config
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\bin\Debug\Session4.exe
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\bin\Debug\Session4.pdb
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\obj\Debug\Session4.csprojResolveAssemblyReference.cache
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\obj\Debug\Session4.Detailed.resources
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\obj\Debug\Session4.Flight.resources
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\obj\Debug\Session4.Properties.Resources.resources
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\obj\Debug\Session4.csproj.GenerateResource.Cache
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\obj\Debug\Session4.exe
+c:\users\cstc\documents\visual studio 2015\Projects\Session4\Session4\obj\Debug\Session4.pdb
+D:\documents\ITSSB\JolimaJAVIN\Session4\Session4\bin\Debug\Session4.exe.config
+D:\documents\ITSSB\JolimaJAVIN\Session4\Session4\obj\Debug\Session4.exe
+D:\documents\ITSSB\JolimaJAVIN\Session4\Session4\obj\Debug\Session4.pdb
